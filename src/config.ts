@@ -70,7 +70,7 @@ export const profileConfig: ProfileConfig = {
 			icon: "simple-icons:anilist", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "anilist.co/user/aussieauntie/",
+			url: "https://anilist.co/user/aussieauntie/",
 		},
 	],
 };
