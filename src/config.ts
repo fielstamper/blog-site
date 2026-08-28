@@ -31,10 +31,10 @@ export const siteConfig: SiteConfig = {
 	},
 	favicon: [
 		{
-		  src: 'https://github.com/fielstamper/caitlyn.moe/blob/main/src/assets/cherryblossom.png?raw=true',    // Path of the favicon, relative to the /public directory
-		  theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
-		  sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
-		 }
+			src: "https://github.com/fielstamper/caitlyn.moe/blob/main/src/assets/cherryblossom.png?raw=true", // Path of the favicon, relative to the /public directory
+			theme: "light", // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
+			sizes: "32x32", // (Optional) Size of the favicon, set only if you have favicons of different sizes
+		},
 	],
 };
 
@@ -55,7 +55,7 @@ export const profileConfig: ProfileConfig = {
 	name: "alice",
 	bio: "(aka caitlyn) \n\n  A woman who can't program but can do some other stuff decently well. You can find me around the web. ",
 	links: [
-				{
+		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/fielstamper",
